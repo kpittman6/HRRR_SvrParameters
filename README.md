@@ -23,11 +23,11 @@ QC_Cell_Tracks_Master_PostBuffer.csv
 5_22_VerticalProfs_QC_Grouped.csv
 - 210 sounding points (by time, and lat/lon location); several other characteristics tagged
 
-3 - 
+3 - Calculate HRRR Parameters on Vertical Profiles
 ===========================
 
 
 
 
-4 - 
+4 - Visualize Statistics on Vertical Profiles
 ===========================
