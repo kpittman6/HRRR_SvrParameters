@@ -17,7 +17,7 @@ Workflow:
 2 - QC Near-Inflow Points
 ===========================
 QC_Cell_Tracks_Master_PostBuffer.csv
-- 115 storms
+- 115 storms remained after spatial buffer around inflow points
 
 
 5_22_VerticalProfs_QC_Grouped.csv
