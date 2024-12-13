@@ -1,4 +1,3 @@
-===========================
 1 - Cell Tracking
 ===========================
 5-22 Manual CI POINTS (.pptx)
@@ -12,7 +11,6 @@
   It has the approximate centroid location and time of storm initiation (the first timestep it had 40+ dBZ composite reflectivity)
   It also has the centroid location/time for each subsequent radar volume that the storm had 40+ dBZ CR
 
-===========================
 2 - QC Near-Inflow Points
 ===========================
 QC_Cell_Tracks_Master_PostBuffer.csv
@@ -22,13 +20,11 @@ QC_Cell_Tracks_Master_PostBuffer.csv
 5_22_VerticalProfs_QC_Grouped.csv
 - 210 sounding points (by time, and lat/lon location); several other characteristics tagged
 
-===========================
 3 - 
 ===========================
 
 
 
 
-===========================
 4 - 
 ===========================
