@@ -7,11 +7,12 @@ Workflow:
 
 5-22_Storms (REVISED) (.xlsx)
 - The list of individual storms tracked on the .pptx document. 
-- Has a storm ID code, Start and end time that 40+ dBZ composite reflectivity was present,
-  The reason for storm demise (dissipate or merger, and with which cell)
-  Which radar was used for tracking
+- Has a storm ID code, Start and end time that 40+ dBZ composite reflectivity was present, the reason for storm demise (dissipate or merger, and with which cell), and which radar was used for tracking.
   It has the approximate centroid location and time of storm initiation (the first timestep it had 40+ dBZ composite reflectivity)
   It also has the centroid location/time for each subsequent radar volume that the storm had 40+ dBZ CR
+
+5_22_ObservedMotion (.csv)
+- observed storm motion calculation using approximate 40 dBZ CR centroid location and time
 
 2 - QC Near-Inflow Points
 ===========================
