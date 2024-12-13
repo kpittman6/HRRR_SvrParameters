@@ -35,3 +35,10 @@ HRRR_Parameter_Statistics.ipynb
 - creates .png images of box and whisker plots of all parameters. Reads in PlotList.xlsx for titles, axis lables, and plot limits
 
 BoxPlots: Directory of all the box and whisker plot .png images created by HRRR_Parameter_Statistics.ipynb
+
+5 - SkewT's
+===========================
+HRRR_VerticalProfiles.ipynb
+- visualize vertical profiles with SkewT's and hodographs
+
+HRRRSoudnings: Directory of text files with HRRR vertical profiles from each near inflow point (P, T, Td, AGL Height, U wind, V wind)
