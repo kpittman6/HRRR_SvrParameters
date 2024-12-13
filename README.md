@@ -27,6 +27,7 @@ QC_Cell_Tracks_Master_PostBuffer.csv
 ===========================
 HRRR_NearInflow_Parameters.ipynb
 - downloads HRRR data from Amazon S3 bucket, and creates a .csv file (5-22_NearInflowParameters.csv) of parameters that is read into the stats code (HRRR_Parameter_Statistics.ipynb)
+- Also creates the .txt files of vertical profiles used in HRRR_VerticalProfiles.ipynb
 
 
 4 - Visualize Statistics on Vertical Profiles
